@@ -6,7 +6,7 @@ in 2021 International Conference on System Science and Engineering (ICSSE2021)
 Paper link: will be updated soon
 
 ## Result
-<img src="images/icsse2021_result.png" width="1200">
+<img src="images/icsse2021_result.png" width="1080">
 
 ## Dependencies
 - Python 3.6+
