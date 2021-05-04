@@ -34,6 +34,7 @@ person 0.414176 580 372 646 416
 
 ## References
 - https://github.com/YunYang1994/tensorflow-yolov3
+- https://github.com/tranleanh/yolov3-django-streaming
 
 April 2021
 
