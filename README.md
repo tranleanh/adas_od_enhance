@@ -1,9 +1,9 @@
-# Robustness Enhancement for Object Detection in Advanced Driver Assistance Systems (ADAS)
+# Enhancement of Robustness in Object Detection Module for Advanced Driver Assistance Systems
 
-This is the implementation of the paper "Robustness Enhancement for Object Detection in Advanced Driver Assistance Systems (ADAS)"
+This is the implementation of the paper "Enhancement of Robustness in Object Detection Module for Advanced Driver Assistance Systems"
 in 2021 International Conference on System Science and Engineering (ICSSE2021)
 
-Paper link: will be updated soon
+Read Paper at [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9537944) or [ResearchGate](https://www.researchgate.net/publication/353164873_Enhancement_of_Robustness_in_Object_Detection_Module_for_Advanced_Driver_Assistance_Systems)
 
 ## Result
 <img src="images/result.png" width="1080">
